@@ -1,5 +1,5 @@
 Script: 	NSXHousekeeping.ps1
-Author: 	Jason Smith (jason.3.smith@atos.net)
+Author: 	Jason Smith
 
 Function
 =========
